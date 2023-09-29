@@ -10,9 +10,8 @@ Spécialisation DEVOPS
     <a href="https://trombi-tm.vercel.app" target="_blank">
         <img src="./profile/img/map.png" alt="map.png" style="width: 300px !important;">
     </a>
+    <a href="https://trombi-tm.vercel.app" target="_blank">https://trombi-tm.vercel.app</a>
 </div>
-
-<a href="https://trombi-tm.vercel.app" target="_blank">https://trombi-tm.vercel.app</a>
 
 ## Langages
 
