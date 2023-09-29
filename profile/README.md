@@ -4,6 +4,14 @@ Titre Professionnel
 Concepteur Développeur d'Applications 2023 - Hauts-de-France  
 Spécialisation DEVOPS
 
+## Qui sommes nous
+
+<div align="center">
+    <img src="./img/map.png" alt="map.png">
+</div>
+
+<a href="https://trombi-tm.vercel.app">https://trombi-tm.vercel.app</a>
+
 ## Langages
 
 &nbsp;&nbsp;
