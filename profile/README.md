@@ -7,10 +7,12 @@ Spécialisation DEVOPS
 ## Qui sommes nous
 
 <div align="center">
-    <img src="./profile/img/map.png" alt="map.png">
+    <a href="https://trombi-tm.vercel.app" target="_blank">
+        <img src="./profile/img/map.png" alt="map.png">
+    </a>
 </div>
 
-<a href="https://trombi-tm.vercel.app">https://trombi-tm.vercel.app</a>
+<a href="https://trombi-tm.vercel.app" target="_blank">https://trombi-tm.vercel.app</a>
 
 ## Langages
 
