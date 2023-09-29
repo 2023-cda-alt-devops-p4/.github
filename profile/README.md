@@ -8,7 +8,7 @@ Spécialisation DEVOPS
 
 <div align="center">
     <a href="https://trombi-tm.vercel.app" target="_blank">
-        <img src="./profile/img/map.png" alt="map.png">
+        <img src="./profile/img/map.png" alt="map.png" style="max-width: 300px;">
     </a>
 </div>
 
